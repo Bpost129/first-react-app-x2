@@ -1,7 +1,7 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
-function Logos() {
+function Logo() {
   return (
     <div>
       <a href="https://vite.dev" target="_blank">
@@ -14,4 +14,4 @@ function Logos() {
   )
 }
 
-export { Logos }
+export { Logo }
